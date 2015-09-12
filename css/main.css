@@ -518,5 +518,19 @@ h2.title {
     
 }
 
+@media (max-width: 990px) and (min-width: 759px) and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+nav li {
+    margin-top: 80px;
+}
+}
+
+
+@media (max-width: 758px) and (min-width: 120px) and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+nav li {
+    margin-top: 27px;
+}
+}
+
+
 
 
